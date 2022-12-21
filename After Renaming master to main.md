@@ -1,5 +1,3 @@
-# After Renaming master to main
-
 First rename master to main on Github
 
 Then locally
