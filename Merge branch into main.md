@@ -1,5 +1,4 @@
-#Merge branch into main
-
+### Merge branch into main
 ```
 git fetch
 git rebase origin/main
