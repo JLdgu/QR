@@ -2,8 +2,8 @@
 
 ### Shortcuts to regularly used git procedures
 
-#### Merge branch into main
+#### [Merge branch into main](../main/Merge%20branch%20into%20main.md)
 
-#### Move to head of branch
+#### [Move to head of branch](../main/Move%20to%20Head%20of%20Branch.md)
 
-#### On local after renaming of main/master branch
+#### [After Renaming of master to main](//.main/After%20Renaming%20master%20to%20main.md)
