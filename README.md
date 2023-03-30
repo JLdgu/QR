@@ -11,3 +11,9 @@
 #### [Reset Git GUI Here Window](Reset%20Git%20GUI%20Here%20Window.md)
 
 #### [Undo All Changes](Undo%20all%20uncommitted%20and%20unsaved%20changes.md)
+
+[Squash merge branch](SquashMergeAndDeleteBranch.md)
+
+| Some link | Another link |
+|-----------|--------------|
+| Some link | Another link |
