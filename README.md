@@ -8,4 +8,4 @@
 | [Reset Git GUI Here Window](git/ResetGitGUIHereWindow.md) | |
 | [Undo All Changes](git/UndoAllUncommittedAndUnsavedChanges.md) | |
 | [Squash merge branch](git/SquashMergeAndDeleteBranch.md) | |
-
+| [Clean with Exclude](git/Clean.md) | |
